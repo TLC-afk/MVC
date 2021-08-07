@@ -1,0 +1,23 @@
+#app2{
+    
+}
+#app2 #nav{
+    display: flex;
+}
+#app2 #nav .one{
+    border: 5px solid black;
+    width:50%;
+}
+#app2 #nav .two{
+    border: 5px solid black;
+    width:50%;
+}
+#app2 #nav div.backGround{
+    background: blue;
+}
+#app2 #container div{
+    display: none;
+}
+#app2 #container div.active{
+    display: block;
+}
